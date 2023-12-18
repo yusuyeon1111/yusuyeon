@@ -1,36 +1,38 @@
-# yusuyeon
-# :pushpin: goQuality
->고퀄리티 개발 컨텐츠 공유 서비스  
-> 데모사이트 링크
+
+# :pushpin: HEF
+> 게시판 기반 심부름 매칭 서비스
+> 커뮤니티, 고객센터, 심부름 게시판 제공
 
 </br>
 
 ## 1. 제작 기간 & 참여 인원
-- 2019년 2월 18일 ~ 4월 5일
-- 개인 프로젝트
+- 2023년 11월 22일 ~ 12월 8일
+- 팀 프로젝트
 
 </br>
 
 ## 2. 사용 기술
-#### `Back-end`
-  - Java 8
-  - Spring Boot 2.3
-  - Gradle
-  - Spring Data JPA
-  - QueryDSL
-  - H2
-  - MySQL 5.7
-  - Spring Security
-  - Jsoup
-#### `Front-end`
-  - Vue.js 3.0
-  - Element UI
-
+<div align="center">
+	<P>🎇platforms & languages </P>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+</div>
+<div align="center">
+	<P>🔨Tools</P>
+	<img src="https://img.shields.io/badge/eclipseide-525C86?style=flat&logo=eclipseide&logoColor=white"/>
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/python-776AB?style=flat&logo=python&logoColor=white"/>
+</div>
 </br>
 
 ## 3. ERD 설계
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
-![](https://github.com/JungHyung2/gitio.io/blob/master/assets/images/portfolio/p1.jpg)
+![image](https://github.com/yusuyeon1111/yusuyeon/assets/142488306/f4c4c147-994f-4a9d-bb66-4179209585d1)
+
 
 
 ## 4. 핵심 기능
